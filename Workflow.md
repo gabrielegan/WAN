@@ -51,3 +51,26 @@ At the moment, the following files are missing (in order to run all the Python s
 - Individual play text files (e.g., `Shakespeare-HAM.txt`)
 
 These input files will enable running the 3 first scripts which will generate all intermediate files as input for each next script in the pipeline.
+
+## Performance pre-assessment
+
+The most likely performance bottlenecks in the pipeline are:
+
+1. **`makeWANnoprint.py`** - Creating thousands of WAN matrices for all rolling windows (3000-4000 `.win` files from around 100 plays + 8 author canons + about 100 canon-minus-play files in the working example) and writing each of them into new `.WAN` files. Likely, file I/O overhead.
+
+2. **`compareWANSnoprint.py`** - Has a very large `listOfWANPairs` containing approximately 1,000+ pairs of WANs to compare (each play's window compared against 8 authorial canons) and performs relative entropy calculations with 100 matrix multiplications in the `limitProbabilities()` function. Likely, computationally expensive operations per pair due to expensive matrix multiplication in `limitProbabilities()`.
+
+### GPU porting pre-assessment
+
+Based on the bottleneck analysis:
+
+**`compareWANSnoprint.py` - Strong candidate for GPU acceleration:**
+- The [`limitProbabilities()`](compareWANSnoprint.py) function performs 100 matrix multiplications (raising a 100x100 matrix to the 100th power) for each WAN pair
+- With ~1,000+ WAN pairs to process, this represents significant computational work
+- Matrix multiplication is highly parallelizable and well-suited for GPU computation
+- **Recommendation**: Port [`limitProbabilities()`](compareWANSnoprint.py) and [`relativeEntropy()`](compareWANSnoprint.py) to use GPU libraries (maybe, **CuPy**?!)
+- Expected speedup: Significant, especially for large-scale comparisons
+
+**`makeWANnoprint.py` - Poor candidate for GPU acceleration:**. The primary bottleneck is file I/O, but GPU acceleration doesn't help with disk operations.
+
+**Implementation priority**: Focus GPU porting efforts on [`compareWANSnoprint.py`](compareWANSnoprint.py) first, as it will provide the most significant performance improvement.
