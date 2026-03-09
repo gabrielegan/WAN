@@ -2,22 +2,40 @@
 
 # Generic options:
 
-#SBATCH --account=bddur45   # Run job under project <project>
-#SBATCH --time=23:30:00        # Run for a max of 59 minutes
+#SBATCH --account=bddur45
+#SBATCH --time=23:30:00
 
 # Node resources:
-# (choose between 1-4 gpus per node)
 
-#SBATCH --partition=gpu # Choose either "gpu", "test" or "infer" partition type
-#SBATCH --nodes=1        #!/bin/bash -l
-
+#SBATCH --partition=gpu
+#SBATCH --nodes=1
 #SBATCH --job-name=compareWANs
-#SBATCH -o job_gpu-%j.out
-#SBATCH -e job_gpu-%j.err
+#SBATCH -o results/job_gpu-%A_%a.out
+#SBATCH -e results/job_gpu-%A_%a.err
 #SBATCH --ntasks=1
 #SBATCH --cpus-per-task=1
 #SBATCH --mem=2G
+#SBATCH --gres=gpu:1
 
-time python ./compareWANSnoprint.py
+# Job array: one task per file in wan_pairs/
+# The range must match the number of files; adjust upper bound as needed
+#SBATCH --array=0-99%10   # %10 = max 10 concurrent tasks; adjust as needed
 
-echo "end of job"
+# Build an array of all wan_pairs txt files
+WAN_PAIRS_FILES=(wan_pairs/*.txt)
+
+# Pick the file for this array task
+INPUT_FILE=${WAN_PAIRS_FILES[$SLURM_ARRAY_TASK_ID]}
+
+if [ -z "$INPUT_FILE" ]; then
+    echo "No input file for task $SLURM_ARRAY_TASK_ID" >&2
+    exit 1
+fi
+
+echo "Task $SLURM_ARRAY_TASK_ID processing: $INPUT_FILE"
+
+mkdir -p results
+
+time python ./compareWANSnoprint.py "$INPUT_FILE" > "results/$(basename $INPUT_FILE .txt).csv"
+
+echo "End of task $SLURM_ARRAY_TASK_ID"
