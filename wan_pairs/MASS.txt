@@ -1,0 +1,8 @@
+MASS.WAN,all-Chapman.WAN
+MASS.WAN,all-Fletcher.WAN
+MASS.WAN,all-Greene.WAN
+MASS.WAN,all-Jonson.WAN
+MASS.WAN,all-Marlowe-minus-MASS.WAN
+MASS.WAN,all-Middleton.WAN
+MASS.WAN,all-Peele.WAN
+MASS.WAN,all-Shakespeare.WAN

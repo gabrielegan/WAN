@@ -1,0 +1,8 @@
+ORL.WAN,all-Chapman.WAN
+ORL.WAN,all-Fletcher.WAN
+ORL.WAN,all-Greene-minus-ORL.WAN
+ORL.WAN,all-Jonson.WAN
+ORL.WAN,all-Marlowe.WAN
+ORL.WAN,all-Middleton.WAN
+ORL.WAN,all-Peele.WAN
+ORL.WAN,all-Shakespeare.WAN

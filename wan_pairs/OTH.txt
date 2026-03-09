@@ -1,0 +1,8 @@
+OTH.WAN,all-Chapman.WAN
+OTH.WAN,all-Fletcher.WAN
+OTH.WAN,all-Greene.WAN
+OTH.WAN,all-Jonson.WAN
+OTH.WAN,all-Marlowe.WAN
+OTH.WAN,all-Middleton.WAN
+OTH.WAN,all-Peele.WAN
+OTH.WAN,all-Shakespeare-minus-OTH.WAN

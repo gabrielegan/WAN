@@ -1,0 +1,8 @@
+CAE.WAN,all-Chapman-minus-CAE.WAN
+CAE.WAN,all-Fletcher.WAN
+CAE.WAN,all-Greene.WAN
+CAE.WAN,all-Jonson.WAN
+CAE.WAN,all-Marlowe.WAN
+CAE.WAN,all-Middleton.WAN
+CAE.WAN,all-Peele.WAN
+CAE.WAN,all-Shakespeare.WAN

@@ -1,0 +1,8 @@
+MAG.WAN,all-Chapman.WAN
+MAG.WAN,all-Fletcher.WAN
+MAG.WAN,all-Greene.WAN
+MAG.WAN,all-Jonson-minus-MAG.WAN
+MAG.WAN,all-Marlowe.WAN
+MAG.WAN,all-Middleton.WAN
+MAG.WAN,all-Peele.WAN
+MAG.WAN,all-Shakespeare.WAN

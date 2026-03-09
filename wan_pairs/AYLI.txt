@@ -1,0 +1,8 @@
+AYLI.WAN,all-Chapman.WAN
+AYLI.WAN,all-Fletcher.WAN
+AYLI.WAN,all-Greene.WAN
+AYLI.WAN,all-Jonson.WAN
+AYLI.WAN,all-Marlowe.WAN
+AYLI.WAN,all-Middleton.WAN
+AYLI.WAN,all-Peele.WAN
+AYLI.WAN,all-Shakespeare-minus-AYLI.WAN

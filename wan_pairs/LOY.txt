@@ -1,0 +1,8 @@
+LOY.WAN,all-Chapman.WAN
+LOY.WAN,all-Fletcher-minus-LOY.WAN
+LOY.WAN,all-Greene.WAN
+LOY.WAN,all-Jonson.WAN
+LOY.WAN,all-Marlowe.WAN
+LOY.WAN,all-Middleton.WAN
+LOY.WAN,all-Peele.WAN
+LOY.WAN,all-Shakespeare.WAN

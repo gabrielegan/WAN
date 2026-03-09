@@ -1,0 +1,8 @@
+MIC.WAN,all-Chapman.WAN
+MIC.WAN,all-Fletcher.WAN
+MIC.WAN,all-Greene.WAN
+MIC.WAN,all-Jonson.WAN
+MIC.WAN,all-Marlowe.WAN
+MIC.WAN,all-Middleton-minus-MIC.WAN
+MIC.WAN,all-Peele.WAN
+MIC.WAN,all-Shakespeare.WAN

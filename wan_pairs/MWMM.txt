@@ -1,0 +1,8 @@
+MWMM.WAN,all-Chapman.WAN
+MWMM.WAN,all-Fletcher.WAN
+MWMM.WAN,all-Greene.WAN
+MWMM.WAN,all-Jonson.WAN
+MWMM.WAN,all-Marlowe.WAN
+MWMM.WAN,all-Middleton-minus-MWMM.WAN
+MWMM.WAN,all-Peele.WAN
+MWMM.WAN,all-Shakespeare.WAN

@@ -1,0 +1,8 @@
+CYM.WAN,all-Chapman.WAN
+CYM.WAN,all-Fletcher.WAN
+CYM.WAN,all-Greene.WAN
+CYM.WAN,all-Jonson.WAN
+CYM.WAN,all-Marlowe.WAN
+CYM.WAN,all-Middleton.WAN
+CYM.WAN,all-Peele.WAN
+CYM.WAN,all-Shakespeare-minus-CYM.WAN

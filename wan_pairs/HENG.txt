@@ -1,0 +1,8 @@
+HENG.WAN,all-Chapman.WAN
+HENG.WAN,all-Fletcher.WAN
+HENG.WAN,all-Greene.WAN
+HENG.WAN,all-Jonson.WAN
+HENG.WAN,all-Marlowe.WAN
+HENG.WAN,all-Middleton-minus-HENG.WAN
+HENG.WAN,all-Peele.WAN
+HENG.WAN,all-Shakespeare.WAN

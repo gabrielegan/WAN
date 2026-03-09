@@ -1,0 +1,8 @@
+HML.WAN,all-Chapman.WAN
+HML.WAN,all-Fletcher-minus-HML.WAN
+HML.WAN,all-Greene.WAN
+HML.WAN,all-Jonson.WAN
+HML.WAN,all-Marlowe.WAN
+HML.WAN,all-Middleton.WAN
+HML.WAN,all-Peele.WAN
+HML.WAN,all-Shakespeare.WAN

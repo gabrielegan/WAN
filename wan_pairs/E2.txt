@@ -1,0 +1,8 @@
+E2.WAN,all-Chapman.WAN
+E2.WAN,all-Fletcher.WAN
+E2.WAN,all-Greene.WAN
+E2.WAN,all-Jonson.WAN
+E2.WAN,all-Marlowe-minus-E2.WAN
+E2.WAN,all-Middleton.WAN
+E2.WAN,all-Peele.WAN
+E2.WAN,all-Shakespeare.WAN

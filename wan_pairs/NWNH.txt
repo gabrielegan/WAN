@@ -1,0 +1,8 @@
+NWNH.WAN,all-Chapman.WAN
+NWNH.WAN,all-Fletcher.WAN
+NWNH.WAN,all-Greene.WAN
+NWNH.WAN,all-Jonson.WAN
+NWNH.WAN,all-Marlowe.WAN
+NWNH.WAN,all-Middleton-minus-NWNH.WAN
+NWNH.WAN,all-Peele.WAN
+NWNH.WAN,all-Shakespeare.WAN

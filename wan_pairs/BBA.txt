@@ -1,0 +1,8 @@
+BBA.WAN,all-Chapman-minus-BBA.WAN
+BBA.WAN,all-Fletcher.WAN
+BBA.WAN,all-Greene.WAN
+BBA.WAN,all-Jonson.WAN
+BBA.WAN,all-Marlowe.WAN
+BBA.WAN,all-Middleton.WAN
+BBA.WAN,all-Peele.WAN
+BBA.WAN,all-Shakespeare.WAN

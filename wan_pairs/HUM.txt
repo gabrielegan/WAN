@@ -1,0 +1,8 @@
+HUM.WAN,all-Chapman-minus-HUM.WAN
+HUM.WAN,all-Fletcher.WAN
+HUM.WAN,all-Greene.WAN
+HUM.WAN,all-Jonson.WAN
+HUM.WAN,all-Marlowe.WAN
+HUM.WAN,all-Middleton.WAN
+HUM.WAN,all-Peele.WAN
+HUM.WAN,all-Shakespeare.WAN

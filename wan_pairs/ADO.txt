@@ -1,0 +1,8 @@
+ADO.WAN,all-Chapman.WAN
+ADO.WAN,all-Fletcher.WAN
+ADO.WAN,all-Greene.WAN
+ADO.WAN,all-Jonson.WAN
+ADO.WAN,all-Marlowe.WAN
+ADO.WAN,all-Middleton.WAN
+ADO.WAN,all-Peele.WAN
+ADO.WAN,all-Shakespeare-minus-ADO.WAN

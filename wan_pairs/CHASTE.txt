@@ -1,0 +1,8 @@
+CHASTE.WAN,all-Chapman.WAN
+CHASTE.WAN,all-Fletcher.WAN
+CHASTE.WAN,all-Greene.WAN
+CHASTE.WAN,all-Jonson.WAN
+CHASTE.WAN,all-Marlowe.WAN
+CHASTE.WAN,all-Middleton-minus-CHASTE.WAN
+CHASTE.WAN,all-Peele.WAN
+CHASTE.WAN,all-Shakespeare.WAN

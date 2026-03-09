@@ -1,0 +1,8 @@
+CAT.WAN,all-Chapman.WAN
+CAT.WAN,all-Fletcher.WAN
+CAT.WAN,all-Greene.WAN
+CAT.WAN,all-Jonson-minus-CAT.WAN
+CAT.WAN,all-Marlowe.WAN
+CAT.WAN,all-Middleton.WAN
+CAT.WAN,all-Peele.WAN
+CAT.WAN,all-Shakespeare.WAN

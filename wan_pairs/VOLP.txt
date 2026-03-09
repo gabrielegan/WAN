@@ -1,0 +1,8 @@
+VOLP.WAN,all-Chapman.WAN
+VOLP.WAN,all-Fletcher.WAN
+VOLP.WAN,all-Greene.WAN
+VOLP.WAN,all-Jonson-minus-VOLP.WAN
+VOLP.WAN,all-Marlowe.WAN
+VOLP.WAN,all-Middleton.WAN
+VOLP.WAN,all-Peele.WAN
+VOLP.WAN,all-Shakespeare.WAN

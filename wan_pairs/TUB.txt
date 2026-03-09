@@ -1,0 +1,8 @@
+TUB.WAN,all-Chapman.WAN
+TUB.WAN,all-Fletcher.WAN
+TUB.WAN,all-Greene.WAN
+TUB.WAN,all-Jonson-minus-TUB.WAN
+TUB.WAN,all-Marlowe.WAN
+TUB.WAN,all-Middleton.WAN
+TUB.WAN,all-Peele.WAN
+TUB.WAN,all-Shakespeare.WAN

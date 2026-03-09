@@ -1,0 +1,8 @@
+EMO.WAN,all-Chapman.WAN
+EMO.WAN,all-Fletcher.WAN
+EMO.WAN,all-Greene.WAN
+EMO.WAN,all-Jonson-minus-EMO.WAN
+EMO.WAN,all-Marlowe.WAN
+EMO.WAN,all-Middleton.WAN
+EMO.WAN,all-Peele.WAN
+EMO.WAN,all-Shakespeare.WAN

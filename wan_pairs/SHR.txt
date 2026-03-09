@@ -1,0 +1,8 @@
+SHR.WAN,all-Chapman.WAN
+SHR.WAN,all-Fletcher.WAN
+SHR.WAN,all-Greene.WAN
+SHR.WAN,all-Jonson.WAN
+SHR.WAN,all-Marlowe.WAN
+SHR.WAN,all-Middleton.WAN
+SHR.WAN,all-Peele.WAN
+SHR.WAN,all-Shakespeare-minus-SHR.WAN

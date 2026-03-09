@@ -1,0 +1,8 @@
+TRI.WAN,all-Chapman.WAN
+TRI.WAN,all-Fletcher.WAN
+TRI.WAN,all-Greene.WAN
+TRI.WAN,all-Jonson.WAN
+TRI.WAN,all-Marlowe.WAN
+TRI.WAN,all-Middleton-minus-TRI.WAN
+TRI.WAN,all-Peele.WAN
+TRI.WAN,all-Shakespeare.WAN

@@ -1,0 +1,8 @@
+ERR.WAN,all-Chapman.WAN
+ERR.WAN,all-Fletcher.WAN
+ERR.WAN,all-Greene.WAN
+ERR.WAN,all-Jonson.WAN
+ERR.WAN,all-Marlowe.WAN
+ERR.WAN,all-Middleton.WAN
+ERR.WAN,all-Peele.WAN
+ERR.WAN,all-Shakespeare-minus-ERR.WAN

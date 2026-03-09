@@ -1,0 +1,8 @@
+MAY.WAN,all-Chapman-minus-MAY.WAN
+MAY.WAN,all-Fletcher.WAN
+MAY.WAN,all-Greene.WAN
+MAY.WAN,all-Jonson.WAN
+MAY.WAN,all-Marlowe.WAN
+MAY.WAN,all-Middleton.WAN
+MAY.WAN,all-Peele.WAN
+MAY.WAN,all-Shakespeare.WAN

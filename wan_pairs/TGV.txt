@@ -1,0 +1,8 @@
+TGV.WAN,all-Chapman.WAN
+TGV.WAN,all-Fletcher.WAN
+TGV.WAN,all-Greene.WAN
+TGV.WAN,all-Jonson.WAN
+TGV.WAN,all-Marlowe.WAN
+TGV.WAN,all-Middleton.WAN
+TGV.WAN,all-Peele.WAN
+TGV.WAN,all-Shakespeare-minus-TGV.WAN

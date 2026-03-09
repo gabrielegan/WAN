@@ -1,0 +1,8 @@
+H5.WAN,all-Chapman.WAN
+H5.WAN,all-Fletcher.WAN
+H5.WAN,all-Greene.WAN
+H5.WAN,all-Jonson.WAN
+H5.WAN,all-Marlowe.WAN
+H5.WAN,all-Middleton.WAN
+H5.WAN,all-Peele.WAN
+H5.WAN,all-Shakespeare-minus-H5.WAN
