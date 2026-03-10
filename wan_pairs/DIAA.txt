@@ -1,8 +1,0 @@
-DIAA.WAN,all-Chapman.WAN
-DIAA.WAN,all-Fletcher.WAN
-DIAA.WAN,all-Greene.WAN
-DIAA.WAN,all-Jonson-minus-DIAA.WAN
-DIAA.WAN,all-Marlowe.WAN
-DIAA.WAN,all-Middleton.WAN
-DIAA.WAN,all-Peele.WAN
-DIAA.WAN,all-Shakespeare.WAN

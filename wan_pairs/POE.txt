@@ -1,8 +1,0 @@
-POE.WAN,all-Chapman.WAN
-POE.WAN,all-Fletcher.WAN
-POE.WAN,all-Greene.WAN
-POE.WAN,all-Jonson-minus-POE.WAN
-POE.WAN,all-Marlowe.WAN
-POE.WAN,all-Middleton.WAN
-POE.WAN,all-Peele.WAN
-POE.WAN,all-Shakespeare.WAN

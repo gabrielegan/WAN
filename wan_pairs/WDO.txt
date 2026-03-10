@@ -1,8 +1,0 @@
-WDO.WAN,all-Chapman.WAN
-WDO.WAN,all-Fletcher.WAN
-WDO.WAN,all-Greene.WAN
-WDO.WAN,all-Jonson.WAN
-WDO.WAN,all-Marlowe.WAN
-WDO.WAN,all-Middleton-minus-WDO.WAN
-WDO.WAN,all-Peele.WAN
-WDO.WAN,all-Shakespeare.WAN

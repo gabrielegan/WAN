@@ -1,8 +1,0 @@
-LR.WAN,all-Chapman.WAN
-LR.WAN,all-Fletcher.WAN
-LR.WAN,all-Greene.WAN
-LR.WAN,all-Jonson.WAN
-LR.WAN,all-Marlowe.WAN
-LR.WAN,all-Middleton.WAN
-LR.WAN,all-Peele.WAN
-LR.WAN,all-Shakespeare-minus-LR.WAN

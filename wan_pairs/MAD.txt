@@ -1,8 +1,0 @@
-MAD.WAN,all-Chapman.WAN
-MAD.WAN,all-Fletcher-minus-MAD.WAN
-MAD.WAN,all-Greene.WAN
-MAD.WAN,all-Jonson.WAN
-MAD.WAN,all-Marlowe.WAN
-MAD.WAN,all-Middleton.WAN
-MAD.WAN,all-Peele.WAN
-MAD.WAN,all-Shakespeare.WAN

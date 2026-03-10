@@ -1,8 +1,0 @@
-PHOE.WAN,all-Chapman.WAN
-PHOE.WAN,all-Fletcher.WAN
-PHOE.WAN,all-Greene.WAN
-PHOE.WAN,all-Jonson.WAN
-PHOE.WAN,all-Marlowe.WAN
-PHOE.WAN,all-Middleton-minus-PHOE.WAN
-PHOE.WAN,all-Peele.WAN
-PHOE.WAN,all-Shakespeare.WAN

@@ -1,8 +1,0 @@
-OLI.WAN,all-Chapman-minus-OLI.WAN
-OLI.WAN,all-Fletcher.WAN
-OLI.WAN,all-Greene.WAN
-OLI.WAN,all-Jonson.WAN
-OLI.WAN,all-Marlowe.WAN
-OLI.WAN,all-Middleton.WAN
-OLI.WAN,all-Peele.WAN
-OLI.WAN,all-Shakespeare.WAN

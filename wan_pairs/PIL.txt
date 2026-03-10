@@ -1,8 +1,0 @@
-PIL.WAN,all-Chapman.WAN
-PIL.WAN,all-Fletcher-minus-PIL.WAN
-PIL.WAN,all-Greene.WAN
-PIL.WAN,all-Jonson.WAN
-PIL.WAN,all-Marlowe.WAN
-PIL.WAN,all-Middleton.WAN
-PIL.WAN,all-Peele.WAN
-PIL.WAN,all-Shakespeare.WAN

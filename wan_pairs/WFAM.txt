@@ -1,8 +1,0 @@
-WFAM.WAN,all-Chapman.WAN
-WFAM.WAN,all-Fletcher-minus-WFAM.WAN
-WFAM.WAN,all-Greene.WAN
-WFAM.WAN,all-Jonson.WAN
-WFAM.WAN,all-Marlowe.WAN
-WFAM.WAN,all-Middleton.WAN
-WFAM.WAN,all-Peele.WAN
-WFAM.WAN,all-Shakespeare.WAN

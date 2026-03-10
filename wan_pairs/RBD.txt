@@ -1,8 +1,0 @@
-RBD.WAN,all-Chapman-minus-RBD.WAN
-RBD.WAN,all-Fletcher.WAN
-RBD.WAN,all-Greene.WAN
-RBD.WAN,all-Jonson.WAN
-RBD.WAN,all-Marlowe.WAN
-RBD.WAN,all-Middleton.WAN
-RBD.WAN,all-Peele.WAN
-RBD.WAN,all-Shakespeare.WAN

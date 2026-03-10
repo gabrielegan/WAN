@@ -1,8 +1,0 @@
-J4.WAN,all-Chapman.WAN
-J4.WAN,all-Fletcher.WAN
-J4.WAN,all-Greene-minus-J4.WAN
-J4.WAN,all-Jonson.WAN
-J4.WAN,all-Marlowe.WAN
-J4.WAN,all-Middleton.WAN
-J4.WAN,all-Peele.WAN
-J4.WAN,all-Shakespeare.WAN

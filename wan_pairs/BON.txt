@@ -1,8 +1,0 @@
-BON.WAN,all-Chapman.WAN
-BON.WAN,all-Fletcher-minus-BON.WAN
-BON.WAN,all-Greene.WAN
-BON.WAN,all-Jonson.WAN
-BON.WAN,all-Marlowe.WAN
-BON.WAN,all-Middleton.WAN
-BON.WAN,all-Peele.WAN
-BON.WAN,all-Shakespeare.WAN

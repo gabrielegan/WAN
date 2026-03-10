@@ -1,8 +1,0 @@
-Y5G.WAN,all-Chapman.WAN
-Y5G.WAN,all-Fletcher.WAN
-Y5G.WAN,all-Greene.WAN
-Y5G.WAN,all-Jonson.WAN
-Y5G.WAN,all-Marlowe.WAN
-Y5G.WAN,all-Middleton-minus-Y5G.WAN
-Y5G.WAN,all-Peele.WAN
-Y5G.WAN,all-Shakespeare.WAN

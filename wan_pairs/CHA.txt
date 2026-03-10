@@ -1,8 +1,0 @@
-CHA.WAN,all-Chapman.WAN
-CHA.WAN,all-Fletcher-minus-CHA.WAN
-CHA.WAN,all-Greene.WAN
-CHA.WAN,all-Jonson.WAN
-CHA.WAN,all-Marlowe.WAN
-CHA.WAN,all-Middleton.WAN
-CHA.WAN,all-Peele.WAN
-CHA.WAN,all-Shakespeare.WAN

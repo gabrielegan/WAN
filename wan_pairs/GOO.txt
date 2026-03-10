@@ -1,8 +1,0 @@
-GOO.WAN,all-Chapman-minus-GOO.WAN
-GOO.WAN,all-Fletcher.WAN
-GOO.WAN,all-Greene.WAN
-GOO.WAN,all-Jonson.WAN
-GOO.WAN,all-Marlowe.WAN
-GOO.WAN,all-Middleton.WAN
-GOO.WAN,all-Peele.WAN
-GOO.WAN,all-Shakespeare.WAN

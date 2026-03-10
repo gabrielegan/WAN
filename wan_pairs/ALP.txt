@@ -1,8 +1,0 @@
-ALP.WAN,all-Chapman.WAN
-ALP.WAN,all-Fletcher.WAN
-ALP.WAN,all-Greene-minus-ALP.WAN
-ALP.WAN,all-Jonson.WAN
-ALP.WAN,all-Marlowe.WAN
-ALP.WAN,all-Middleton.WAN
-ALP.WAN,all-Peele.WAN
-ALP.WAN,all-Shakespeare.WAN

@@ -1,8 +1,0 @@
-COR.WAN,all-Chapman.WAN
-COR.WAN,all-Fletcher.WAN
-COR.WAN,all-Greene.WAN
-COR.WAN,all-Jonson.WAN
-COR.WAN,all-Marlowe.WAN
-COR.WAN,all-Middleton.WAN
-COR.WAN,all-Peele.WAN
-COR.WAN,all-Shakespeare-minus-COR.WAN

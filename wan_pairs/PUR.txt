@@ -1,8 +1,0 @@
-PUR.WAN,all-Chapman.WAN
-PUR.WAN,all-Fletcher.WAN
-PUR.WAN,all-Greene.WAN
-PUR.WAN,all-Jonson.WAN
-PUR.WAN,all-Marlowe.WAN
-PUR.WAN,all-Middleton-minus-PUR.WAN
-PUR.WAN,all-Peele.WAN
-PUR.WAN,all-Shakespeare.WAN

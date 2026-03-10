@@ -1,8 +1,0 @@
-DAV.WAN,all-Chapman.WAN
-DAV.WAN,all-Fletcher.WAN
-DAV.WAN,all-Greene.WAN
-DAV.WAN,all-Jonson.WAN
-DAV.WAN,all-Marlowe.WAN
-DAV.WAN,all-Middleton.WAN
-DAV.WAN,all-Peele-minus-DAV.WAN
-DAV.WAN,all-Shakespeare.WAN

@@ -1,8 +1,0 @@
-STAP.WAN,all-Chapman.WAN
-STAP.WAN,all-Fletcher.WAN
-STAP.WAN,all-Greene.WAN
-STAP.WAN,all-Jonson-minus-STAP.WAN
-STAP.WAN,all-Marlowe.WAN
-STAP.WAN,all-Middleton.WAN
-STAP.WAN,all-Peele.WAN
-STAP.WAN,all-Shakespeare.WAN

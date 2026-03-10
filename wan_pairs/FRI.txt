@@ -1,8 +1,0 @@
-FRI.WAN,all-Chapman.WAN
-FRI.WAN,all-Fletcher.WAN
-FRI.WAN,all-Greene-minus-FRI.WAN
-FRI.WAN,all-Jonson.WAN
-FRI.WAN,all-Marlowe.WAN
-FRI.WAN,all-Middleton.WAN
-FRI.WAN,all-Peele.WAN
-FRI.WAN,all-Shakespeare.WAN

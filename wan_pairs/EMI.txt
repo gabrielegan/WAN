@@ -1,8 +1,0 @@
-EMI.WAN,all-Chapman.WAN
-EMI.WAN,all-Fletcher.WAN
-EMI.WAN,all-Greene.WAN
-EMI.WAN,all-Jonson-minus-EMI.WAN
-EMI.WAN,all-Marlowe.WAN
-EMI.WAN,all-Middleton.WAN
-EMI.WAN,all-Peele.WAN
-EMI.WAN,all-Shakespeare.WAN

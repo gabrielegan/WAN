@@ -1,8 +1,0 @@
-CR.WAN,all-Chapman.WAN
-CR.WAN,all-Fletcher.WAN
-CR.WAN,all-Greene.WAN
-CR.WAN,all-Jonson-minus-CR.WAN
-CR.WAN,all-Marlowe.WAN
-CR.WAN,all-Middleton.WAN
-CR.WAN,all-Peele.WAN
-CR.WAN,all-Shakespeare.WAN

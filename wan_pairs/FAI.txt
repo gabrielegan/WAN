@@ -1,8 +1,0 @@
-FAI.WAN,all-Chapman.WAN
-FAI.WAN,all-Fletcher-minus-FAI.WAN
-FAI.WAN,all-Greene.WAN
-FAI.WAN,all-Jonson.WAN
-FAI.WAN,all-Marlowe.WAN
-FAI.WAN,all-Middleton.WAN
-FAI.WAN,all-Peele.WAN
-FAI.WAN,all-Shakespeare.WAN

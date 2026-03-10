@@ -1,8 +1,0 @@
-ANT.WAN,all-Chapman.WAN
-ANT.WAN,all-Fletcher.WAN
-ANT.WAN,all-Greene.WAN
-ANT.WAN,all-Jonson.WAN
-ANT.WAN,all-Marlowe.WAN
-ANT.WAN,all-Middleton.WAN
-ANT.WAN,all-Peele.WAN
-ANT.WAN,all-Shakespeare-minus-ANT.WAN

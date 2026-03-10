@@ -1,8 +1,0 @@
-WPR.WAN,all-Chapman.WAN
-WPR.WAN,all-Fletcher-minus-WPR.WAN
-WPR.WAN,all-Greene.WAN
-WPR.WAN,all-Jonson.WAN
-WPR.WAN,all-Marlowe.WAN
-WPR.WAN,all-Middleton.WAN
-WPR.WAN,all-Peele.WAN
-WPR.WAN,all-Shakespeare.WAN

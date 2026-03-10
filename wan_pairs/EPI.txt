@@ -1,8 +1,0 @@
-EPI.WAN,all-Chapman.WAN
-EPI.WAN,all-Fletcher.WAN
-EPI.WAN,all-Greene.WAN
-EPI.WAN,all-Jonson-minus-EPI.WAN
-EPI.WAN,all-Marlowe.WAN
-EPI.WAN,all-Middleton.WAN
-EPI.WAN,all-Peele.WAN
-EPI.WAN,all-Shakespeare.WAN

@@ -1,8 +1,0 @@
-ROM.WAN,all-Chapman.WAN
-ROM.WAN,all-Fletcher.WAN
-ROM.WAN,all-Greene.WAN
-ROM.WAN,all-Jonson.WAN
-ROM.WAN,all-Marlowe.WAN
-ROM.WAN,all-Middleton.WAN
-ROM.WAN,all-Peele.WAN
-ROM.WAN,all-Shakespeare-minus-ROM.WAN

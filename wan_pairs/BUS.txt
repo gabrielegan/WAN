@@ -1,8 +1,0 @@
-BUS.WAN,all-Chapman-minus-BUS.WAN
-BUS.WAN,all-Fletcher.WAN
-BUS.WAN,all-Greene.WAN
-BUS.WAN,all-Jonson.WAN
-BUS.WAN,all-Marlowe.WAN
-BUS.WAN,all-Middleton.WAN
-BUS.WAN,all-Peele.WAN
-BUS.WAN,all-Shakespeare.WAN

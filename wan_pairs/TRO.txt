@@ -1,8 +1,0 @@
-TRO.WAN,all-Chapman.WAN
-TRO.WAN,all-Fletcher.WAN
-TRO.WAN,all-Greene.WAN
-TRO.WAN,all-Jonson.WAN
-TRO.WAN,all-Marlowe.WAN
-TRO.WAN,all-Middleton.WAN
-TRO.WAN,all-Peele.WAN
-TRO.WAN,all-Shakespeare-minus-TRO.WAN

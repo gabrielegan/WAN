@@ -1,8 +1,0 @@
-NI.WAN,all-Chapman.WAN
-NI.WAN,all-Fletcher.WAN
-NI.WAN,all-Greene.WAN
-NI.WAN,all-Jonson-minus-NI.WAN
-NI.WAN,all-Marlowe.WAN
-NI.WAN,all-Middleton.WAN
-NI.WAN,all-Peele.WAN
-NI.WAN,all-Shakespeare.WAN

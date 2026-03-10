@@ -1,8 +1,0 @@
-TN.WAN,all-Chapman.WAN
-TN.WAN,all-Fletcher.WAN
-TN.WAN,all-Greene.WAN
-TN.WAN,all-Jonson.WAN
-TN.WAN,all-Marlowe.WAN
-TN.WAN,all-Middleton.WAN
-TN.WAN,all-Peele.WAN
-TN.WAN,all-Shakespeare-minus-TN.WAN

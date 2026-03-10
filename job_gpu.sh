@@ -19,10 +19,13 @@
 
 # Job array: one task per file in wan_pairs/
 # The range must match the number of files; adjust upper bound as needed
-#SBATCH --array=0-99%10   # %10 = max 10 concurrent tasks; adjust as needed
+#SBATCH --array=0-8%10   # Replace N with (number of files - 1)
+
+# Change to project directory so relative paths work
+cd /home/dmitry/Projects/DISKAH/Gabriel/WAN
 
 # Build an array of all wan_pairs txt files
-WAN_PAIRS_FILES=(wan_pairs/*.txt)
+WAN_PAIRS_FILES=(wan_pairs_authors/*.txt)
 
 # Pick the file for this array task
 INPUT_FILE=${WAN_PAIRS_FILES[$SLURM_ARRAY_TASK_ID]}

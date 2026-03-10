@@ -1,8 +1,0 @@
-OWT.WAN,all-Chapman.WAN
-OWT.WAN,all-Fletcher.WAN
-OWT.WAN,all-Greene.WAN
-OWT.WAN,all-Jonson.WAN
-OWT.WAN,all-Marlowe.WAN
-OWT.WAN,all-Middleton.WAN
-OWT.WAN,all-Peele-minus-OWT.WAN
-OWT.WAN,all-Shakespeare.WAN
