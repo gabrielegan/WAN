@@ -2,7 +2,10 @@ from math import log
 import glob
 import os
 import sys
-import cupy as cp
+try:
+    import cupy as cp
+except ModuleNotFoundError:
+    cp = None
 import numpy as np
 
 def eliminateSinks(anyMatrix):			# If any row in a square matrix is all zeroes, that indicates a
@@ -95,6 +98,8 @@ def loadWAN(anyFileName):
     return (WAN, textcounts)
 
 def limitProbabilities_gpu(anyScores, anyCounts):
+    if cp is None:
+        return limitProbabilities(anyScores, anyCounts)
     """GPU-accelerated version using CuPy for matrix exponentiation"""
     # Convert input to CuPy array (move to GPU)
     gpu_matrix = cp.asarray(anyScores, dtype=cp.float64)
@@ -142,9 +147,6 @@ for pair in listOfWANPairs:
     (WAN1, text1counts) = loadWAN(textFile1)
     (WAN2, text2counts) = loadWAN(textFile2)
 
-    # Use CPU version
-    # WAN1LimitProbs = limitProbabilities((eliminateSinks(WAN1)),text1counts)
-
-    # Use GPU-accelerated version
+    # Use GPU-accelerated version (or fall back to CPU version if CuPy is not available)
     WAN1LimitProbs = limitProbabilities_gpu((eliminateSinks(WAN1)), text1counts)
     print(textFile1+","+textFile2+","+str(round(100 * relativeEntropy(WAN1, WAN2, WAN1LimitProbs, indicator),2)))
