@@ -127,14 +127,43 @@ def limitProbabilities_gpu(anyScores, anyCounts):
 
 ############### END OF FUNCTION DEFINITIONS #################
 
-# indicatorFileName = 'all-8-alls.IND'
-indicatorFileName = 'all-1s.IND'
+# Default indicator file (can be overridden with -i/--indicator on the CLI)
+DEFAULT_INDICATOR_FILE = "all-1s.IND"
 
-if len(sys.argv) < 2:
-    print("Usage: python compareWANSnoprint.py <wan_pairs_file>", file=sys.stderr)
-    sys.exit(1)
 
-wanPairsFile = sys.argv[1]
+def _parse_args(argv):
+    """
+    CLI:
+      python compareWANSnoprint.py [-i INDICATOR_FILE] <wan_pairs_file>
+    """
+    indicator_file = DEFAULT_INDICATOR_FILE
+    positional = []
+
+    i = 0
+    while i < len(argv):
+        arg = argv[i]
+        if arg in ("-i", "--indicator"):
+            if i + 1 >= len(argv):
+                print("Error: -i/--indicator requires a value", file=sys.stderr)
+                sys.exit(2)
+            indicator_file = argv[i + 1]
+            i += 2
+            continue
+
+        positional.append(arg)
+        i += 1
+
+    if len(positional) != 1:
+        print(
+            "Usage: python compareWANSnoprint.py [-i INDICATOR_FILE] <wan_pairs_file>",
+            file=sys.stderr,
+        )
+        sys.exit(1)
+
+    return indicator_file, positional[0]
+
+
+indicatorFileName, wanPairsFile = _parse_args(sys.argv[1:])
 
 with open(wanPairsFile, 'r') as handle:
     listOfWANPairs = [line.strip() for line in handle if line.strip()]
@@ -149,4 +178,4 @@ for pair in listOfWANPairs:
 
     # Use GPU-accelerated version (or fall back to CPU version if CuPy is not available)
     WAN1LimitProbs = limitProbabilities_gpu((eliminateSinks(WAN1)), text1counts)
-    print(textFile1+","+textFile2+","+str(round(100 * relativeEntropy(WAN1, WAN2, WAN1LimitProbs, indicator),2)))
+    print(textFile1 + "," + textFile2 + "," + str(round(100 * relativeEntropy(WAN1, WAN2, WAN1LimitProbs, indicator), 2)))

@@ -11,5 +11,7 @@ def test_compareWANSnoprint_requires_wan_pairs_file():
     )
 
     assert proc.returncode == 1
-    # Script prints usage to stderr
-    assert "Usage: python compareWANSnoprint.py <wan_pairs_file>" in proc.stderr
+    assert (
+        "Usage: python compareWANSnoprint.py [-i INDICATOR_FILE] <wan_pairs_file>"
+        in proc.stderr
+    )
