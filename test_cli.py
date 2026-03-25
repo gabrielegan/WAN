@@ -1,3 +1,4 @@
+import os
 import subprocess
 import sys
 
@@ -15,3 +16,8 @@ def test_compareWANSnoprint_requires_wan_pairs_file():
         "Usage: python compareWANSnoprint.py [-i INDICATOR_FILE] <wan_pairs_file>"
         in proc.stderr
     )
+
+
+def test_default_indicator_file_exists():
+    default_indicator = "all-1s.IND"
+    assert os.path.isfile(default_indicator), f"Missing default indicator file: {default_indicator}"
