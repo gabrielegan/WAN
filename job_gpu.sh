@@ -17,8 +17,8 @@
 #SBATCH --mem=2G
 #SBATCH --gres=gpu:1
 
-# Job array: one task per author file in wan_pairs_authors/ (8 files -> 0-7)
-#SBATCH --array=0-7
+# Job array: one task per author file in wan_pairs_authors/ (6 files -> 0-5)
+#SBATCH --array=0-5
 
 # Change to project directory so relative paths work
 #cd /home/dmitry/Projects/DISKAH/Gabriel/WAN
@@ -37,7 +37,7 @@ fi
 echo "Task $SLURM_ARRAY_TASK_ID processing: $INPUT_FILE"
 
 # Example: set this to whatever .IND you want to use for this run
-INDICATOR_FILE=${INDICATOR_FILE:-all-1s.IND}
+INDICATOR_FILE=${INDICATOR_FILE:-6-authors-whole-plays-top-100-words.IND}
 
 # Activate Conda environment
 export CONDADIR=/nobackup/projects/bddur01/$USER
