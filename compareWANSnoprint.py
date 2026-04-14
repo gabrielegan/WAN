@@ -128,7 +128,7 @@ def limitProbabilities_gpu(anyScores, anyCounts):
 ############### END OF FUNCTION DEFINITIONS #################
 
 # Default indicator file (can be overridden with -i/--indicator on the CLI)
-DEFAULT_INDICATOR_FILE = "all-1s.IND"
+DEFAULT_INDICATOR_FILE = "6-authors-whole-plays-top-100-words.IND"
 
 
 def _parse_args(argv):
