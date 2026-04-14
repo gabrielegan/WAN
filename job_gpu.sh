@@ -36,11 +36,14 @@ fi
 
 echo "Task $SLURM_ARRAY_TASK_ID processing: $INPUT_FILE"
 
+# Example: set this to whatever .IND you want to use for this run
+INDICATOR_FILE=${INDICATOR_FILE:-6-authors-whole-plays-top-100-words.IND}
+
 # Activate Conda environment
 export CONDADIR=/nobackup/projects/bddur01/$USER
 source $CONDADIR/miniconda/etc/profile.d/conda.sh
 conda activate cupy-env
 
-time python ./compareWANSnoprint.py "$INPUT_FILE" > "results/$(basename $INPUT_FILE .txt).csv"
+time python ./compareWANSnoprint.py -i "$INDICATOR_FILE" "$INPUT_FILE" > "results/$(basename $INPUT_FILE .txt).csv"
 
 echo "End of task $SLURM_ARRAY_TASK_ID"
