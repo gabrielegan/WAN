@@ -18,7 +18,7 @@
 #SBATCH --gres=gpu:1
 
 # Job array: one task per author file in wan_pairs_authors/ (6 files -> 0-5)
-#SBATCH --array=0-7
+#SBATCH --array=0-5
 
 # Change to project directory so relative paths work
 #cd /home/dmitry/Projects/DISKAH/Gabriel/WAN
